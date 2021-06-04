@@ -1,4 +1,4 @@
-# Send Formatted & Customized or bulk mail via Python
+# Send Formatted Text mail or bulk mail via Python
 
 Python has a rich library of different functions. sending email is also one of them. I have shown 3 different ways to send mail. 
 > One to One customized &amp; formatted mail (If HTML supported) & Plain text (In Case HTML Not Supported) <br>
@@ -47,12 +47,10 @@ pip install -r requirement.txt
 ```sh
  python send_via_yagmail.py
 ```
+ 
 ## How It Works
+ 
+<img src="python_mail.gif">
 
-<img src="https://i.ibb.co/0hGGDcJ/python-mail.gif" alt="python-mail" border="0">
-
-## HTML formatted Email
-
-<img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/545804d8e4b09c5ca72525ce/images/5fda3d247129911ba1b21a76/file-lRntEYLamr.png" width="500">
 
 
