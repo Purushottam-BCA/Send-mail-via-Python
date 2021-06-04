@@ -1,0 +1,15 @@
+cachetools==4.2.2
+certifi==2021.5.30
+chardet==4.0.0
+cssselect==1.1.0
+cssutils==2.3.0
+idna==2.10
+importlib-metadata==4.5.0
+keyring==23.0.1
+lxml==4.6.3
+premailer==3.9.0
+pywin32-ctypes==0.2.0
+requests==2.25.1
+urllib3==1.26.5
+yagmail==0.14.256
+zipp==3.4.1
