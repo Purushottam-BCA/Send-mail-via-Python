@@ -50,7 +50,5 @@ pip install -r requirement.txt
  
 ## How It Works
  
-<img src="python_mail.gif">
-
-
+<img src="python_email.gif">
 
